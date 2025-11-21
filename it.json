@@ -8,7 +8,7 @@
   "HF_HELP_ALL_INFO": "Mostra tutte le informazioni complete del sistema",
   "HF_HELP_HELP": "Aiuto:",
   "HF_HELP_CUSTOM_FONT_TITLE": "Caratteri personalizzati",
-  "HF_HELP_CUSTOM_FONT": "Per installare un carattere personalizzato, è sufficiente inserire il file Custom.flf nella cartella ~/.hydrofetch",
+  "HF_HELP_CUSTOM_FONT": "Per installare un carattere personalizzato, è sufficiente inserire il file Custom.flf nella cartella ~/.config/hydrofetch",
   "HF_HELP_REPOSITORY": "Repository",
   "HF_MSG_DEPS_NOT_FOUND": "Dipendenze non trovate. Installazione in corso...",
   "HF_MSG_PKG_NOT_SUPPORTED": "Gestore di pacchetti non supportato! Installa le dipendenze manualmente. (Figlet, jq e inetutils per Arch)",

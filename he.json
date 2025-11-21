@@ -8,7 +8,7 @@
   "HF_HELP_ALL_INFO": "הצג את כל פרטי המערכת המלאים",
   "HF_HELP_HELP": "עזרה:",
   "HF_HELP_CUSTOM_FONT_TITLE": "גופנים מותאמים אישית",
-  "HF_HELP_CUSTOM_FONT": "כדי להתקין גופן מותאם אישית, פשוט מקם את הקובץ Custom.flf בתיקייה ~/.hydrofetch",
+  "HF_HELP_CUSTOM_FONT": "כדי להתקין גופן מותאם אישית, פשוט מקם את הקובץ Custom.flf בתיקייה ~/.config/hydrofetch",
   "HF_HELP_REPOSITORY": "מאגר",
   "HF_MSG_DEPS_NOT_FOUND": "תלויות לא נמצאו. מתקין...",
   "HF_MSG_PKG_NOT_SUPPORTED": "מנהל חבילות לא נתמך! אנא התקן את התלויות ידנית. (Figlet, jq ו-inetutils עבור arch)",

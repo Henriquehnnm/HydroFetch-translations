@@ -8,7 +8,7 @@
   "HF_HELP_ALL_INFO": "Pokaż wszystkie pełne informacje o systemie",
   "HF_HELP_HELP": "Pomoc:",
   "HF_HELP_CUSTOM_FONT_TITLE": "Niestandardowe czcionki",
-  "HF_HELP_CUSTOM_FONT": "Aby zainstalować niestandardową czcionkę, wystarczy umieścić plik Custom.flf w folderze ~/.hydrofetch",
+  "HF_HELP_CUSTOM_FONT": "Aby zainstalować niestandardową czcionkę, wystarczy umieścić plik Custom.flf w folderze ~/.config/hydrofetch",
   "HF_HELP_REPOSITORY": "Repozytorium",
   "HF_MSG_DEPS_NOT_FOUND": "Nie znaleziono zależności. Instalowanie...",
   "HF_MSG_PKG_NOT_SUPPORTED": "Menedżer pakietów nieobsługiwany! Zainstaluj zależności ręcznie. (Figlet, jq i inetutils dla arch)",

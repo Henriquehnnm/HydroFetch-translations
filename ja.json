@@ -8,7 +8,7 @@
   "HF_HELP_ALL_INFO": "すべてのシステム情報を完全に表示",
   "HF_HELP_HELP": "ヘルプ:",
   "HF_HELP_CUSTOM_FONT_TITLE": "カスタムフォント",
-  "HF_HELP_CUSTOM_FONT": "カスタムフォントをインストールするには、Custom.flfファイルを~/.hydrofetchフォルダに配置してください",
+  "HF_HELP_CUSTOM_FONT": "カスタムフォントをインストールするには、Custom.flfファイルを~/.config/hydrofetchフォルダに配置してください",
   "HF_HELP_REPOSITORY": "リポジトリ",
   "HF_MSG_DEPS_NOT_FOUND": "依存関係が見つかりません！インストールしています...",
   "HF_MSG_PKG_NOT_SUPPORTED": "パッケージマネージャーはサポートされていません！依存関係を手動でインストールしてください。(Archの場合はFiglet, jq, inetutils)",

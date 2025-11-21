@@ -8,7 +8,7 @@
   "HF_HELP_ALL_INFO": "모든 시스템 정보 전체 표시",
   "HF_HELP_HELP": "도움말:",
   "HF_HELP_CUSTOM_FONT_TITLE": "사용자 지정 글꼴",
-  "HF_HELP_CUSTOM_FONT": "사용자 지정 글꼴을 설치하려면 Custom.flf 파일을 ~/.hydrofetch 폴더에 넣으세요.",
+  "HF_HELP_CUSTOM_FONT": "사용자 지정 글꼴을 설치하려면 Custom.flf 파일을 ~/.config/hydrofetch 폴더에 넣으세요.",
   "HF_HELP_REPOSITORY": "저장소",
   "HF_MSG_DEPS_NOT_FOUND": "종속성을 찾을 수 없습니다. 설치 중...",
   "HF_MSG_PKG_NOT_SUPPORTED": "지원되지 않는 패키지 관리자입니다! 종속성을 수동으로 설치하세요. (Arch의 경우 Figlet, jq 및 inetutils)",

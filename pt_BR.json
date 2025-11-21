@@ -8,7 +8,7 @@
   "HF_HELP_ALL_INFO": "Mostra todas as informações do sistema completas",
   "HF_HELP_HELP": "Ajuda:",
   "HF_HELP_CUSTOM_FONT_TITLE": "Fontes customizadas",
-  "HF_HELP_CUSTOM_FONT": "Para instalar uma fonte customizada, basta colocar o arquivo Custom.flf na pasta ~/.hydrofetch",
+  "HF_HELP_CUSTOM_FONT": "Para instalar uma fonte customizada, basta colocar o arquivo Custom.flf na pasta ~/.config/hydrofetch",
   "HF_HELP_REPOSITORY": "Repositório",
   "HF_MSG_DEPS_NOT_FOUND": "Dependências não encontradas. Instalando...",
   "HF_MSG_PKG_NOT_SUPPORTED": "Gerenciador de pacotes não suportado! Instale as dependências manualmente. (Figlet, jq e inetutils para arch)",

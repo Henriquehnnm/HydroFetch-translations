@@ -8,7 +8,7 @@
   "HF_HELP_ALL_INFO": "Показать всю полную информацию о системе",
   "HF_HELP_HELP": "Помощь:",
   "HF_HELP_CUSTOM_FONT_TITLE": "Пользовательские шрифты",
-  "HF_HELP_CUSTOM_FONT": "Чтобы установить пользовательский шрифт, просто поместите файл Custom.flf в папку ~/.hydrofetch",
+  "HF_HELP_CUSTOM_FONT": "Чтобы установить пользовательский шрифт, просто поместите файл Custom.flf в папку ~/.config/hydrofetch",
   "HF_HELP_REPOSITORY": "Репозиторий",
   "HF_MSG_DEPS_NOT_FOUND": "Зависимости не найдены. Установка...",
   "HF_MSG_PKG_NOT_SUPPORTED": "Менеджер пакетов не поддерживается! Установите зависимости вручную. (Figlet, jq и inetutils для arch)",
